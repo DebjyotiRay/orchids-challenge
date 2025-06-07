@@ -1,9 +1,7 @@
 # Orchids: Multi-Agent Website Generation System
 
 Orchids is an advanced website generation system that uses a coordinated team of specialized AI agents to clone and reimagine websites. Unlike traditional single-LLM approaches, our multi-agent architecture delivers superior results through specialized expertise, coordinated workflow, and real-time feedback loops.
-#LIVE AT https://v0-orchids.vercel.app/
-![Multi-Agent Architecture](https://mermaid.ink/img/pako:eNp1kc1uwjAMgF_FyokJaYBKexsHDpOmTbuhHXZJTWvU_CiJQKB59x2aMgGbL7bsz_Fnh9ZpQR5dfKI9Su66nQvYByfalJemQv-jnNdRK_vOKcNBGik031AHJYqgDYzOnoJHkQPRPpgUQQPJxRUrGHJpKNlcg0awWsEBpXL8amsM6leRAg2i4skRxhq4Npibclq-HWcbQDzFgxqO-qfSAsTIJcLlOQ2uDUTJcUBmXX28b0KsDxvWn8PLfMJzNam7LitK6Ac53EWMb4-8juXYKVqvwJGEEMBUiaEj9DKzuamkdZ33Y1XJgXFQJufPKcA3xWptsOeqTfyE6oamVDibVe483Wyv8D2j9pLFH3_Jh5L2m2G4osVDqKPXOY9p6lti9I5f0jzUJEH5mZcVdSzzRVbkfpGey1dIrOVmkSVpOl8USbYI8Zp-AHvYhxA)
-
+# LIVE AT https://v0-orchids.vercel.app/
 ## Table of Contents
 
 1. [System Overview](#system-overview)
