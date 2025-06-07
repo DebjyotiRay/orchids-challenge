@@ -4,7 +4,8 @@ An advanced website generation system that uses a coordinated team of specialize
 ## LIVE AT https://v0-orchids.vercel.app/
 
 ## Workflow Diagram: 
-https://www.mermaidchart.com/app/projects/f999f6ae-25f7-47b4-9ad0-dbfd2e523457/diagrams/c6414640-8be6-4106-aade-154b6d7693d3/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiYzY0MTQ2NDAtOGJlNi00MTA2LWFhZGUtMTU0YjZkNzY5M2QzIiwiYWNjZXNzIjoiVmlldyIsImlhdCI6MTc0OTI4OTYwMX0.yEqiG0B77iIavAvJrXpsaFfIrAhrhfoCoexTG-V9hVc
+![image](https://github.com/user-attachments/assets/46d9087b-95cb-46c7-bb9d-b7b856639702)
+
 
 ## Table of Contents
 
