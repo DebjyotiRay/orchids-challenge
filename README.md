@@ -1,6 +1,6 @@
-# Orchids: Multi-Agent Website Generation System
+# Multi-Agent Website Generation System
 
-Orchids is an advanced website generation system that uses a coordinated team of specialized AI agents to clone and reimagine websites. Unlike traditional single-LLM approaches, our multi-agent architecture delivers superior results through specialized expertise, coordinated workflow, and real-time feedback loops.
+An advanced website generation system that uses a coordinated team of specialized AI agents to clone and reimagine websites. Unlike traditional single-LLM approaches, our multi-agent architecture delivers superior results through specialized expertise, coordinated workflow, and real-time feedback loops.
 # LIVE AT https://v0-orchids.vercel.app/
 ## Table of Contents
 
